@@ -1,0 +1,56 @@
+[
+    {
+        "nome": "Banco Central",
+        "num_participantes": 10,
+        "armamento": "Fuzil",
+        "num_municao": 250,
+        "descricao": "assalto ao banco central 13 policial permitido refens",
+        "autor": "sorrisojk",
+        "data": "2024-08-13 01:48:25.827597+00:00"
+    },
+    {
+        "nome": "Fleeca",
+        "num_participantes": 8,
+        "armamento": "SUB",
+        "num_municao": 250,
+        "descricao": "TESTE FLECA 123 321 123 321",
+        "autor": "sorrisojk",
+        "data": "2024-08-13 01:49:24.636230+00:00"
+    },
+    {
+        "nome": "JOJO",
+        "num_participantes": 10,
+        "armamento": "sub",
+        "num_municao": 260,
+        "descricao": "agadfgaeg",
+        "autor": "sorrisojk",
+        "data": "2024-08-13 02:54:48.045706+00:00"
+    },
+    {
+        "nome": "testar",
+        "num_participantes": 2,
+        "armamento": "sub",
+        "num_municao": 260,
+        "descricao": "asdasd",
+        "autor": "sorrisojk",
+        "data": "2024-08-13 02:57:08.900459+00:00"
+    },
+    {
+        "nome": "niobio",
+        "num_participantes": 15,
+        "armamento": "FUZIL",
+        "num_municao": 250,
+        "descricao": "ASDFNOBJAdfbkmlamlk\u00e7d l\u00e7 lm]lm] j]\u00e7ladfgAERFG",
+        "autor": "smilejk",
+        "data": "2024-08-13 03:02:20.855811+00:00"
+    },
+    {
+        "nome": "TESTE",
+        "num_participantes": 1,
+        "armamento": "AS",
+        "num_municao": 12,
+        "descricao": "QSWD",
+        "autor": "smilejk",
+        "data": "2024-08-13 03:06:02.103745+00:00"
+    }
+]
